@@ -12,6 +12,6 @@ I'm a Computer Science student at the University of the Witwatersrand currently 
 
 ---
 [![](https://visitcount.itsvg.in/api?id=yamkelajack06&icon=0&color=0)](https://visitcount.itsvg.in)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yamkelajack06&layout=compact&theme=dark&exclude_repo=repo1,repo2&hide=html,css&langs_count=8)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yamkelajack06&layout=compact&theme=dark&langs_count=10&hide=jupyter%20notebook&include_all_commits=true&count_private=true&card_width=445)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
