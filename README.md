@@ -1,5 +1,5 @@
 # 💫 About Me:
-I'm a Computer Science student at the University of the Witwatersrand currently learning web development. I work with HTML, CSS, JavaScript, and React to build responsive, maintainable applications. I'm also exploring the basics of AI using Gemini AI, and I'm interested in learning more about system architecture and building scalable software. I am currently learning backend development with Python and Django, with plans to dive deep into system architecture and system design to understand how software works from end to end.
+I'm a Computer Science student at the University of the Witwatersrand currently learning web development. I work with HTML, CSS, JavaScript, Typescript and React to build responsive, maintainable applications. I'm also exploring the basics of AI using Gemini AI, and I'm interested in learning more about system architecture and building scalable software. I am currently learning backend development with Python and FastAPI, with plans to dive deep into system architecture and system design to understand how software works from end to end.
 
 
 ## 🌐 Socials:
