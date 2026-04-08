@@ -14,6 +14,8 @@ I'm a Computer Science student at the University of the Witwatersrand currently 
 ![JavaScript](https://img.shields.io/badge/JavaScript-15%25-yellow?style=flat-square)
 ![HTML/CSS](https://img.shields.io/badge/HTML/CSS-10%25-orange?style=flat-square)
 
+![Language Stats](stats/leaderboard_by_lines.png)
+
 # 📈 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=yamkelajack06&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true)<br/>
 ![](https://nirzak-streak-stats.vercel.app/?user=yamkelajack06&theme=tokyonight&hide_border=false)<br/>
